@@ -217,7 +217,7 @@ yarn run test:unit
 yarn run test:e2e
 ```
 
-#### Generate all svg components
+#### dddGenerate all svg components
 
 ```bash
 yarn run svg
