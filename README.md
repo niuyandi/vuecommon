@@ -193,7 +193,7 @@ yarn install
 yarn run serve
 ```
 
-#### Compiles and minifies for production
+#### 1Compiles and minifies for production
 
 ```bash
 yarn run build:prod
@@ -217,7 +217,7 @@ yarn run test:unit
 yarn run test:e2e
 ```
 
-#### test Generate all svg components
+#### Generate all svg components
 
 ```bash
 yarn run svg
